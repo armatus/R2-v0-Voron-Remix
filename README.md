@@ -6,3 +6,8 @@ Voron v0 Astromech Themed Enclosure
 ![IMG_1085](https://user-images.githubusercontent.com/71520237/208253285-89d0a1ec-b721-42ce-a092-c0eb5de10500.jpeg)
 
 Here are my files for the R2-v0 Voron remix.  There is a detailed Step file with all the parts and proper hardware, and a brief assembly guide.  I will be updating this page with a gallery of serialized builds from other community members :)
+
+
+Here's a demo video:
+
+https://www.youtube.com/watch?v=4Nbc9QeThHo&t=
